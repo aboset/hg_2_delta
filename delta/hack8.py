@@ -3,6 +3,6 @@
 
 lista = [100,200,300,400,500,600,700]
 
-lista.append('foo')
+lista.append('delta')
 
 print(lista)
