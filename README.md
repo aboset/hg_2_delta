@@ -3,8 +3,8 @@
 # 🏴‍☠️ HACK-GROUP
 
 # Integrantes:
-# Junior Castro---------> juncreador
-# Alfredo Rodriguez-----> alfredobrc
-# Anderson Subero-------> AndeSub
-# Patricia Ramos--------> PatriciaRamosT
-# Yelitza Suniaga-------> Yelisu12
+# Junior Castro---------> Charlie
+# Alfredo Rodriguez-----> Echo
+# Anderson Subero-------> Bravo
+# Patricia Ramos--------> Alfa
+# Yelitza Suniaga-------> Delta
