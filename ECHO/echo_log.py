@@ -1,1 +1,1 @@
-print("striing")
+print("string")
